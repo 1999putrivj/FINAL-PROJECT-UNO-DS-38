@@ -1,7 +1,5 @@
 # FINAL-PROJECT-UNO-DS-38
 
-# FINAL-PROJECT-UNO-DS-38
-
 ## Profil Nasabah:
 
 - Nasabah yang membuka deposito berjangka didominasi oleh student, retired, unemployed, dan management.
